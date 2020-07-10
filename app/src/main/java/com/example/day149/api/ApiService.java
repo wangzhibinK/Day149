@@ -9,7 +9,7 @@ import retrofit2.http.GET;
 
 public interface ApiService {
     String baseProjectUrl = "https://www.wanandroid.com/";
-
+    String yes ="111";
     @GET("project/list/1/json?cid=294")
     Observable<ProjectBean> getData();
 
