@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--path=""  表示根目录可以访问-->
+<resources>
+    <paths>
+        <root-path name="download" path="" />
+    </paths>
+</resources>
